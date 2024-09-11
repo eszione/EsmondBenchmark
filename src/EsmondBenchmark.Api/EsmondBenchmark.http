@@ -1,0 +1,6 @@
+@EsmondBenchmark_HostAddress = http://localhost:5040
+
+GET {{EsmondBenchmark_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
